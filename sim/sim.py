@@ -33,8 +33,6 @@ class PIDS(Enum):
 
 
 
-<<<<<<< Updated upstream
-=======
 def float_to_q16_bytes(x: float) -> tuple[int, int, int, int]:
     """
     float  -> 4-byte big-endian signed Q16.16
